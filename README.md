@@ -1,1 +1,1 @@
-# Optimization-using-Binary-Coded-GA
+# Optimization-Using-BGA

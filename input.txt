@@ -1,0 +1,11 @@
+2
+6
+0.9
+0.1
+200
+
+% 1st row: Number of Variables
+% 2nd row: Population Size
+% 3rd row: Crossover Probability
+% 4th row: Mutation Probability
+% 5th row: Maximum Number of Generations

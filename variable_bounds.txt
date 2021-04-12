@@ -1,0 +1,11 @@
+0.0
+0.5
+0.01
+0.0
+0.5
+0.01
+
+% 3 rows:
+    % 1st: minimum value of variable
+    % 2nd: maximum value of variable
+    % 3rd: required accuracy of variable
